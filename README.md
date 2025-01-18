@@ -18,7 +18,7 @@ If you want to just try TBAF:
 1. Check out the resulting `script.baf`.
 
 
-### Using in existing mod
+### Usage in existing mod
 
 No all these steps arent's strictly necessary for using TBAF, but you'll save yourself some headache by following them.
 
@@ -30,3 +30,4 @@ No all these steps arent's strictly necessary for using TBAF, but you'll save yo
 1. Add `node_modules/`, `**/_tmp.tbaf.ts` to your `.gitignore` (see [example](.gitignore)).
 1. Add `**/_tmp.tbaf.ts` to VScode `files:exclude` list. (`CTRL-,` - `files:exclude`. Or, see
    [example](.vscode/settings.json)).
+1. Create your first tbaf!
