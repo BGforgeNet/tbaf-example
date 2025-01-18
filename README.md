@@ -1,6 +1,6 @@
-## IElib template
+## TBAF example
 
-An example IE mod project setup for TBAF usage.
+An example/template IE mod project setup for TBAF usage.
 
 ### Quickstart
 
