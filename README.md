@@ -6,6 +6,7 @@ An example/template IE mod project setup for TBAF usage.
 
 If you want to just try TBAF:
 
+1. Install [Node.js](https://nodejs.org/en/download).
 1. Install [pnpm](https://pnpm.io/installation).
 1. Clone and install dependencies:
    ```bash
@@ -22,6 +23,7 @@ If you want to just try TBAF:
 
 No all these steps arent's strictly necessary for using TBAF, but you'll save yourself some headache by following them.
 
+1. Install [Node.js](https://nodejs.org/en/download).
 1. Install [pnpm](https://pnpm.io/installation).
 1. Copy over [package.json](package.json). Edit `name` field.
 1. Run `pnpm i`. This installs npm packages specified in `package.json`.
