@@ -18,7 +18,7 @@ If you want to just try TBAF:
 1. Use `CTLR-R`, or "BGforge MLS: compile" command from command menu.
 1. Check out the resulting `script.baf`.
 
-### Usage in existing mod
+### Usage in existing mods
 
 No all these steps arent's strictly necessary for using TBAF, but you'll save yourself some headache by following them.
 
