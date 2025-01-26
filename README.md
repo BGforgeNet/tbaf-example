@@ -1,6 +1,6 @@
 ## TBAF example
 
-An example/template IE mod project setup for TBAF usage.
+An example/template IE mod project setup for [TBAF](https://forums.bgforge.net/viewtopic.php?t=448) usage.
 
 ### Quickstart
 
