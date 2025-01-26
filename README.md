@@ -1,6 +1,7 @@
 ## TBAF example
 
-An example/template IE mod project setup for [TBAF](https://forums.bgforge.net/viewtopic.php?t=448) usage.
+An example/template IE mod project setup for [TBAF](https://forums.bgforge.net/viewtopic.php?t=448) usage in
+[BGforge MLS](https://github.com/BGforgeNet/VScode-BGforge-MLS)
 
 ### Quickstart
 
